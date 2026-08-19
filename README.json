@@ -1,88 +1,68 @@
 {
   "items": [
     {
-      "description": "Please feel free to send me pull requests (or issues) to add papers/ talks/ demo etc.",
-      "items": [],
-      "title": "🌱 Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Makeup Transfer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hairstyles Transfer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "Source code for demo, web, etc",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Face Makeup - Pytorch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-04T02:23:48Z",
-            "owner": "zllrunning",
-            "repo": "face-makeup.PyTorch",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web-based | Facial Beauty Prediction",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-11T09:48:30Z",
-            "owner": "wanshun123",
-            "repo": "Facial-Beauty-Prediction",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GUI | Makeup Transfer Demo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-06T09:52:58Z",
-            "owner": "thaoshibe",
-            "repo": "GUI-Makeup-Transfer",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web-based | Makeup Transfer Demo",
-          "description": null,
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Face Makeup - Pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186823107,
+                "language": "Python",
+                "last_commit": "2021-08-04T02:23:48Z",
+                "owner": "zllrunning",
+                "repo": "face-makeup.PyTorch",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web-based | Facial Beauty Prediction",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144787933,
+                "language": "Python",
+                "last_commit": "2018-10-11T09:48:30Z",
+                "owner": "wanshun123",
+                "repo": "Facial-Beauty-Prediction",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GUI | Makeup Transfer Demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318998989,
+                "language": "Python",
+                "last_commit": "2020-12-06T09:52:58Z",
+                "owner": "thaoshibe",
+                "repo": "GUI-Makeup-Transfer",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "Source code for demo, web, etc",
+          "node_type": "group",
+          "title": "Interesting Source Codes"
         }
       ],
-      "title": "Interesting Source Codes"
+      "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:19:39.543Z",
+    "last_updated": "2026-08-19T12:37:49.787Z",
     "original_repository": "thaoshibe/awesome-makeup-transfer",
+    "original_repository_id": 328918900,
     "original_repository_sha": "37768c88d97dfcb63fd9facc9dce74289b3f5345",
     "enhanced_repository": "enhansome/enhansome-makeup-transfer",
     "enhanced_repository_description": null,
