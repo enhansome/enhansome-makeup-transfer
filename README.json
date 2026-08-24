@@ -4,6 +4,339 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "BeautyBank: Encoding Facial Makeup in Latent Space",
+          "description": "WACV 2024 Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981947541,
+            "language": "Python",
+            "last_commit": "2025-05-12T06:34:42Z",
+            "owner": "CyberAgentAILab",
+            "repo": "BeautyBank",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models",
+          "description": "NeurIPS 2024 Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869878769,
+            "language": "Python",
+            "last_commit": "2025-01-24T05:26:01Z",
+            "owner": "Snowfallingplum",
+            "repo": "SHMT",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth",
+          "description": "CVPR 2024 Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768508082,
+            "language": "Python",
+            "last_commit": "2025-02-19T07:25:01Z",
+            "owner": "Snowfallingplum",
+            "repo": "CSD-MT",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition",
+          "description": "Eurographics 2023 Page, GitHub,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685519374,
+            "language": "Python",
+            "last_commit": "2025-03-02T18:55:32Z",
+            "owner": "YangXingchao",
+            "repo": "makeup-extract",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer",
+          "description": "ECCV 2022 Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512751091,
+            "language": "Python",
+            "last_commit": "2022-07-23T06:20:38Z",
+            "owner": "Chenyu-Yang-2000",
+            "repo": "EleGANt",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer",
+          "description": "CVPR 2021 Page, Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329494482,
+            "language": "Python",
+            "last_commit": "2024-11-12T04:40:01Z",
+            "owner": "VinAIResearch",
+            "repo": "CPM",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer",
+          "description": "CVPR 2020 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248533683,
+            "language": "Python",
+            "last_commit": "2024-03-13T16:11:11Z",
+            "owner": "wtjiang98",
+            "repo": "PSGAN",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup",
+          "description": "ICCV 2019 GitHub, Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195176368,
+            "language": "Python",
+            "last_commit": "2022-02-18T15:40:45Z",
+            "owner": "wangguanzhi",
+            "repo": "LADN",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Content and Colour Distillation for Learning Image Translations with the Spatial Profile Loss",
+          "description": "BMVC 2019 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195816598,
+            "language": "Python",
+            "last_commit": "2020-10-23T13:50:03Z",
+            "owner": "ssarfraz",
+            "repo": "SPL",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network",
+          "description": "ACM 2018 Tensorflow, Torch, Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185706007,
+            "language": "Python",
+            "last_commit": "2019-07-15T01:14:59Z",
+            "owner": "Honlan",
+            "repo": "BeautyGAN",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi-parametric Makeup Transfer via Semantic-aware Correspondence",
+          "description": "arXiv 2022 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 430633360,
+            "language": "Python",
+            "last_commit": "2022-04-11T02:20:18Z",
+            "owner": "AnonymScholar",
+            "repo": "SpMT",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disentangled Makeup Transfer with Generative Adversarial Network",
+          "description": "arXiv 2019 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194226258,
+            "language": "Python",
+            "last_commit": "2019-07-15T06:31:25Z",
+            "owner": "Honlan",
+            "repo": "DMT",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "Makeup Transfer"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Barbershop: GAN-based Image Compositing using Segmentation Masks",
+          "description": "SIGGRAPH 2021 Page,GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373140682,
+            "language": "Python",
+            "last_commit": "2023-06-25T17:53:30Z",
+            "owner": "ZPdesu",
+            "repo": "Barbershop",
+            "stars": 1439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LOHO: Latent Optimization of Hairstyles via Orthogonalization",
+          "description": "CVPR 2021 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315418993,
+            "language": "Python",
+            "last_commit": "2022-03-01T14:32:16Z",
+            "owner": "dukebw",
+            "repo": "LOHO",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing",
+          "description": "SIGGRAPH 2020 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281062613,
+            "language": "Python",
+            "last_commit": "2020-12-12T07:28:20Z",
+            "owner": "tzt101",
+            "repo": "MichiGAN",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intuitive, Interactive Beard and Hair Synthesis with Generative Models",
+          "description": "CVPR 2020 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264040175,
+            "language": null,
+            "last_commit": "2020-06-17T20:09:45Z",
+            "owner": "kyleolsz",
+            "repo": "hairgen",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Hairstyles Transfer"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Color-Pattern-Makeup Datasets",
+          "description": "2021 577-5555 GitHub w/ CPM, 4 subsets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329494482,
+            "language": "Python",
+            "last_commit": "2024-11-12T04:40:01Z",
+            "owner": "VinAIResearch",
+            "repo": "CPM",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Makeup-Wild",
+          "description": "2020 772 OneDrive w/ PSGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248533683,
+            "language": "Python",
+            "last_commit": "2024-03-13T16:11:11Z",
+            "owner": "wtjiang98",
+            "repo": "PSGAN",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LADN Makeup",
+          "description": "2019 635 Drive w/ LADN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195176368,
+            "language": "Python",
+            "last_commit": "2022-02-18T15:40:45Z",
+            "owner": "wangguanzhi",
+            "repo": "LADN",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195816598,
+            "language": "Python",
+            "last_commit": "2020-10-23T13:50:03Z",
+            "owner": "ssarfraz",
+            "repo": "SPL",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "w/ SPL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195816598,
+            "language": "Python",
+            "last_commit": "2020-10-23T13:50:03Z",
+            "owner": "ssarfraz",
+            "repo": "SPL",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -60,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:12:42.140Z",
+    "last_updated": "2026-08-24T14:27:53.551Z",
     "original_repository": "thaoshibe/awesome-makeup-transfer",
     "original_repository_id": 328918900,
     "original_repository_sha": "37768c88d97dfcb63fd9facc9dce74289b3f5345",
