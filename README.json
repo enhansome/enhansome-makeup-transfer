@@ -393,9 +393,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:29:45.126Z",
-    "original_repository": "thaoshibe/awesome-makeup-transfer",
-    "original_repository_id": 328918900,
+    "last_updated": "2026-08-27T11:48:51.561Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 328918900,
+      "language": null,
+      "last_commit": "2025-12-10T23:44:27Z",
+      "owner": "thaoshibe",
+      "repo": "awesome-makeup-transfer",
+      "stars": 282
+    },
     "original_repository_sha": "37768c88d97dfcb63fd9facc9dce74289b3f5345",
     "enhanced_repository": "enhansome/enhansome-makeup-transfer",
     "enhanced_repository_description": null,
