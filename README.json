@@ -16,7 +16,8 @@
             "owner": "CyberAgentAILab",
             "repo": "BeautyBank",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Snowfallingplum",
             "repo": "SHMT",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Snowfallingplum",
             "repo": "CSD-MT",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "YangXingchao",
             "repo": "makeup-extract",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Chenyu-Yang-2000",
             "repo": "EleGANt",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "VinAIResearch",
             "repo": "CPM",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "wtjiang98",
             "repo": "PSGAN",
             "stars": 781
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "wangguanzhi",
             "repo": "LADN",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ssarfraz",
             "repo": "SPL",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Honlan",
             "repo": "BeautyGAN",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "AnonymScholar",
             "repo": "SpMT",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "Honlan",
             "repo": "DMT",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         }
       ],
       "title": "Makeup Transfer"
@@ -201,8 +213,9 @@
             "last_commit": "2023-06-25T17:53:30Z",
             "owner": "ZPdesu",
             "repo": "Barbershop",
-            "stars": 1439
-          }
+            "stars": 1440
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "dukebw",
             "repo": "LOHO",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "tzt101",
             "repo": "MichiGAN",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "kyleolsz",
             "repo": "hairgen",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         }
       ],
       "title": "Hairstyles Transfer"
@@ -268,7 +284,8 @@
             "owner": "VinAIResearch",
             "repo": "CPM",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "wtjiang98",
             "repo": "PSGAN",
             "stars": 781
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "wangguanzhi",
             "repo": "LADN",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "ssarfraz",
             "repo": "SPL",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "ssarfraz",
             "repo": "SPL",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T01:15:04.405Z"
         }
       ],
       "title": "Datasets"
@@ -350,8 +371,9 @@
                 "last_commit": "2021-08-04T02:23:48Z",
                 "owner": "zllrunning",
                 "repo": "face-makeup.PyTorch",
-                "stars": 538
-              }
+                "stars": 539
+              },
+              "first_seen": "2026-08-29T01:15:04.405Z"
             },
             {
               "node_type": "item",
@@ -366,7 +388,8 @@
                 "owner": "wanshun123",
                 "repo": "Facial-Beauty-Prediction",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:15:04.405Z"
             },
             {
               "node_type": "item",
@@ -381,7 +404,8 @@
                 "owner": "thaoshibe",
                 "repo": "GUI-Makeup-Transfer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:15:04.405Z"
             }
           ],
           "description": "Source code for demo, web, etc",
@@ -393,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:51:11.618Z",
+    "last_updated": "2026-08-29T01:15:04.405Z",
     "original_repository_info": {
       "archived": false,
       "id": 328918900,

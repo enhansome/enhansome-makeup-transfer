@@ -67,7 +67,7 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 | Title                                                                                                                                                                                                                                |   Venue  | Year |                                                                 Link/ Code                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :--: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | [K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification](https://arxiv.org/abs/2102.06288)                                                                                        |   ICIP   | 2021 |                                               [Page](https://psh01087.github.io/K-Hairstyle/)                                              |
-| [Barbershop: GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/abs/2106.01505)                                                                                                                                 | SIGGRAPH | 2021 | [Page](https://zpdesu.github.io/Barbershop/),[GitHub](https://github.com/ZPdesu/Barbershop) ⭐ 1,439 \| 🐛 64 \| 🌐 Python \| 📅 2023-06-25 |
+| [Barbershop: GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/abs/2106.01505)                                                                                                                                 | SIGGRAPH | 2021 | [Page](https://zpdesu.github.io/Barbershop/),[GitHub](https://github.com/ZPdesu/Barbershop) ⭐ 1,440 \| 🐛 64 \| 🌐 Python \| 📅 2023-06-25 |
 | [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)                                                                                                                                    |   CVPR   | 2021 |                            [GitHub](https://github.com/dukebw/LOHO) ⭐ 171 \| 🐛 7 \| 🌐 Python \| 📅 2022-03-01                            |
 | [MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing](https://arxiv.org/abs/2010.16417)                                                                                                                     | SIGGRAPH | 2020 |                          [GitHub](https://github.com/tzt101/MichiGAN) ⭐ 292 \| 🐛 15 \| 🌐 Python \| 📅 2020-12-12                         |
 | [Intuitive, Interactive Beard and Hair Synthesis with Generative Models](https://openaccess.thecvf.com/content_CVPR_2020/papers/Olszewski_Intuitive_Interactive_Beard_and_Hair_Synthesis_With_Generative_Models_CVPR_2020_paper.pdf) |   CVPR   | 2020 |                                 [GitHub](https://github.com/kyleolsz/hairgen) ⭐ 29 \| 🐛 1 \| 📅 2020-06-17                                |
@@ -103,11 +103,11 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 *Source code for demo, web, etc*
 
-* [Face Makeup - Pytorch](https://github.com/zllrunning/face-makeup.PyTorch) ⭐ 538 | 🐛 10 | 🌐 Python | 📅 2021-08-04
+* [Face Makeup - Pytorch](https://github.com/zllrunning/face-makeup.PyTorch) ⭐ 539 | 🐛 10 | 🌐 Python | 📅 2021-08-04
 * [Web-based | Facial Beauty Prediction](https://github.com/wanshun123/Facial-Beauty-Prediction) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2018-10-11
 * [GUI | Makeup Transfer Demo](https://github.com/thaoshibe/GUI-Makeup-Transfer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2020-12-06
 * [Web-based | Makeup Transfer Demo](https://github.com/thaoshibe/Facial-Makeup-Web)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
