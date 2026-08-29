@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV 2025] BeautyBank: Encoding Facial Makeup in Latent Space",
+            "homepage": null,
             "id": 981947541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-12T06:34:42Z",
+            "open_issues": 1,
             "owner": "CyberAgentAILab",
             "repo": "BeautyBank",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models",
+            "homepage": null,
             "id": 869878769,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-24T05:26:01Z",
+            "open_issues": 13,
             "owner": "Snowfallingplum",
             "repo": "SHMT",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth",
+            "homepage": null,
             "id": 768508082,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-19T07:25:01Z",
+            "open_issues": 12,
             "owner": "Snowfallingplum",
             "repo": "CSD-MT",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "codes for Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition (Eurographics2023)",
+            "homepage": "https://yangxingchao.github.io/makeup-extract-page/",
             "id": 685519374,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-02T18:55:32Z",
+            "open_issues": 1,
             "owner": "YangXingchao",
             "repo": "makeup-extract",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -74,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for \"EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer\" (ECCV 2022)",
+            "homepage": "https://arxiv.org/abs/2207.09840",
             "id": 512751091,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-23T06:20:38Z",
+            "open_issues": 18,
             "owner": "Chenyu-Yang-2000",
             "repo": "EleGANt",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "eccv",
+              "elegant",
+              "gan",
+              "makeup",
+              "makeup-transfer",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -90,12 +122,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💄 Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer (CVPR 2021)",
+            "homepage": "https://thaoshibe.github.io/CPM",
             "id": 329494482,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-12T04:40:01Z",
+            "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "color",
+              "color-matching",
+              "color-transfer",
+              "computer-vision",
+              "cvpr",
+              "cvpr2021",
+              "cyclegan",
+              "face-manipulation",
+              "gan",
+              "makeup",
+              "makeup-transfer",
+              "pattern-detection",
+              "segmentation-models"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -106,12 +157,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for \"PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer\" (CVPR 2020 Oral)",
+            "homepage": null,
             "id": 248533683,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-13T16:11:11Z",
+            "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781
+            "stars": 781,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "makeup",
+              "makeup-transfer",
+              "psgan",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -122,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the implementation for Local Adversarial Disentangling Network for Facial Makeup and De-Makeup",
+            "homepage": "https://georgegu1997.github.io/LADN-project-page/",
             "id": 195176368,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-18T15:40:45Z",
+            "open_issues": 3,
             "owner": "wangguanzhi",
             "repo": "LADN",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -138,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Profile Loss for Image Translations",
+            "homepage": null,
             "id": 195816598,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-23T13:50:03Z",
+            "open_issues": 3,
             "owner": "ssarfraz",
             "repo": "SPL",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -154,12 +227,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "transfer the makeup style of a reference face image to a non-makeup face",
+            "homepage": null,
             "id": 185706007,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-15T01:14:59Z",
+            "open_issues": 12,
             "owner": "Honlan",
             "repo": "BeautyGAN",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "histogram-matching",
+              "makeup-transfer"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -170,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for \"Semi-parametric Makeup Transfer via Semantic-aware Correspondence\"",
+            "homepage": null,
             "id": 430633360,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-11T02:20:18Z",
+            "open_issues": 9,
             "owner": "AnonymScholar",
             "repo": "SpMT",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -186,12 +272,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disentangled Makeup Transfer with Generative Adversarial Network",
+            "homepage": null,
             "id": 194226258,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-15T06:31:25Z",
+            "open_issues": 10,
             "owner": "Honlan",
             "repo": "DMT",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "disentangled-representations",
+              "generative-adversarial-network",
+              "makeup-transfer",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         }
@@ -208,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)",
+            "homepage": "https://zpdesu.github.io/Barbershop/",
             "id": 373140682,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-25T17:53:30Z",
+            "open_issues": 64,
             "owner": "ZPdesu",
             "repo": "Barbershop",
-            "stars": 1440
+            "stars": 1440,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -224,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo code for \"LOHO: Latent Optimization of Hairstyles via Orthogonalization\".",
+            "homepage": null,
             "id": 315418993,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-01T14:32:16Z",
+            "open_issues": 7,
             "owner": "dukebw",
             "repo": "LOHO",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -240,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing (SIGGRAPH 2020)",
+            "homepage": null,
             "id": 281062613,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-12T07:28:20Z",
+            "open_issues": 15,
             "owner": "tzt101",
             "repo": "MichiGAN",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -256,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 264040175,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-17T20:09:45Z",
+            "open_issues": 1,
             "owner": "kyleolsz",
             "repo": "hairgen",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         }
@@ -278,12 +396,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💄 Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer (CVPR 2021)",
+            "homepage": "https://thaoshibe.github.io/CPM",
             "id": 329494482,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-12T04:40:01Z",
+            "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "color",
+              "color-matching",
+              "color-transfer",
+              "computer-vision",
+              "cvpr",
+              "cvpr2021",
+              "cyclegan",
+              "face-manipulation",
+              "gan",
+              "makeup",
+              "makeup-transfer",
+              "pattern-detection",
+              "segmentation-models"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -294,12 +431,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for \"PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer\" (CVPR 2020 Oral)",
+            "homepage": null,
             "id": 248533683,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-13T16:11:11Z",
+            "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781
+            "stars": 781,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "makeup",
+              "makeup-transfer",
+              "psgan",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -310,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the implementation for Local Adversarial Disentangling Network for Facial Makeup and De-Makeup",
+            "homepage": "https://georgegu1997.github.io/LADN-project-page/",
             "id": 195176368,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-18T15:40:45Z",
+            "open_issues": 3,
             "owner": "wangguanzhi",
             "repo": "LADN",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -326,12 +480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Profile Loss for Image Translations",
+            "homepage": null,
             "id": 195816598,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-23T13:50:03Z",
+            "open_issues": 3,
             "owner": "ssarfraz",
             "repo": "SPL",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         },
@@ -342,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Profile Loss for Image Translations",
+            "homepage": null,
             "id": 195816598,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-23T13:50:03Z",
+            "open_issues": 3,
             "owner": "ssarfraz",
             "repo": "SPL",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
         }
@@ -366,12 +530,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lip and hair color editor using face parsing maps.",
+                "homepage": null,
                 "id": 186823107,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-04T02:23:48Z",
+                "open_issues": 10,
                 "owner": "zllrunning",
                 "repo": "face-makeup.PyTorch",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "face-parsing",
+                  "lipstick",
+                  "makeup",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T01:15:04.405Z"
             },
@@ -382,12 +556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple website interface built using Flask that allows users to upload selfies to be rated out of 10 by a machine learning model trained on the SCUT-FBP5500 dataset. Currently inactive (took down due to AWS hosting fees)",
+                "homepage": "http://fbp.dataanalysis.world/",
                 "id": 144787933,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-10-11T09:48:30Z",
+                "open_issues": 0,
                 "owner": "wanshun123",
                 "repo": "Facial-Beauty-Prediction",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "flask",
+                  "image-classification",
+                  "image-processing",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:15:04.405Z"
             },
@@ -398,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI-Makeup-Transfer",
+                "homepage": null,
                 "id": 318998989,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-06T09:52:58Z",
+                "open_issues": 0,
                 "owner": "thaoshibe",
                 "repo": "GUI-Makeup-Transfer",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:15:04.405Z"
             }
@@ -417,15 +606,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:15:04.405Z",
+    "last_updated": "2026-08-29T04:48:40.208Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Awesome Makeup Transfer resources",
+      "homepage": null,
       "id": 328918900,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-10T23:44:27Z",
+      "open_issues": 0,
       "owner": "thaoshibe",
       "repo": "awesome-makeup-transfer",
-      "stars": 282
+      "stars": 282,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "makeup-transfer"
+      ]
     },
     "original_repository_sha": "37768c88d97dfcb63fd9facc9dce74289b3f5345",
     "enhanced_repository": "enhansome/enhansome-makeup-transfer",
