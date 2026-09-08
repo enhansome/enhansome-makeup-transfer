@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781,
+            "stars": 780,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -236,7 +236,7 @@
             "open_issues": 12,
             "owner": "Honlan",
             "repo": "BeautyGAN",
-            "stars": 697,
+            "stars": 695,
             "topics": [
               "histogram-matching",
               "makeup-transfer"
@@ -315,7 +315,7 @@
             "open_issues": 64,
             "owner": "ZPdesu",
             "repo": "Barbershop",
-            "stars": 1440,
+            "stars": 1439,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
@@ -440,7 +440,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781,
+            "stars": 780,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:52:20.103Z",
+    "last_updated": "2026-09-08T20:25:06.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
