@@ -131,7 +131,7 @@
             "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "color",
               "color-matching",
@@ -405,7 +405,7 @@
             "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "color",
               "color-matching",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:10:23.391Z",
+    "last_updated": "2026-09-12T19:47:40.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
