@@ -131,7 +131,7 @@
             "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "color",
               "color-matching",
@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -405,7 +405,7 @@
             "open_issues": 2,
             "owner": "VinAIResearch",
             "repo": "CPM",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "color",
               "color-matching",
@@ -440,7 +440,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:33:30.306Z",
+    "last_updated": "2026-09-17T20:40:36.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
