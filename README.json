@@ -236,7 +236,7 @@
             "open_issues": 12,
             "owner": "Honlan",
             "repo": "BeautyGAN",
-            "stars": 695,
+            "stars": 697,
             "topics": [
               "histogram-matching",
               "makeup-transfer"
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:32:23.876Z",
+    "last_updated": "2026-09-28T22:42:20.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
@@ -618,7 +618,7 @@
       "open_issues": 0,
       "owner": "thaoshibe",
       "repo": "awesome-makeup-transfer",
-      "stars": 282,
+      "stars": 283,
       "topics": [
         "awesome",
         "awesome-list",
