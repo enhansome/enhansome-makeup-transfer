@@ -476,7 +476,7 @@
         {
           "node_type": "item",
           "title": "ssarfraz/SPL",
-          "description": null,
+          "description": "ssarfraz/SPL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "w/ SPL",
-          "description": null,
+          "description": "ssarfraz/SPL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -526,7 +526,7 @@
             {
               "node_type": "item",
               "title": "Face Makeup - Pytorch",
-              "description": null,
+              "description": "zllrunning/face-makeup.PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "Web-based | Facial Beauty Prediction",
-              "description": null,
+              "description": "wanshun123/Facial-Beauty-Prediction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "GUI | Makeup Transfer Demo",
-              "description": null,
+              "description": "thaoshibe/GUI-Makeup-Transfer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:31:13.847Z",
+    "last_updated": "2026-10-03T04:59:12.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",

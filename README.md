@@ -8,7 +8,7 @@ A curated list of Makeup Transfer (and Hairstyles Transfer) and related resource
 
 #### 🌱 Contributing
 
-Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome-makeup-transfer/pulls) ⭐ 283 | 🐛 0 | 📅 2025-12-10 (or [issues](https://github.com/thaoshibe/awesome-makeup-transfer/issues) ⭐ 283 | 🐛 0 | 📅 2025-12-10) to add papers/ talks/ demo etc.
+Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome-makeup-transfer/pulls) (or [issues](https://github.com/thaoshibe/awesome-makeup-transfer/issues)) to add papers/ talks/ demo etc.
 
 ***
 
@@ -110,4 +110,4 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
