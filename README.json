@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "Snowfallingplum",
             "repo": "SHMT",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:03:41.400Z",
+    "last_updated": "2026-10-15T20:38:17.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
