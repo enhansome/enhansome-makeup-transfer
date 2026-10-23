@@ -104,10 +104,10 @@ Please feel free to send me [pull requests](https://github.com/thaoshibe/awesome
 *Source code for demo, web, etc*
 
 * [Face Makeup - Pytorch](https://github.com/zllrunning/face-makeup.PyTorch) ⭐ 541 | 🐛 10 | 🌐 Python | 📅 2021-08-04
-* [Web-based | Facial Beauty Prediction](https://github.com/wanshun123/Facial-Beauty-Prediction) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2018-10-11
 * [GUI | Makeup Transfer Demo](https://github.com/thaoshibe/GUI-Makeup-Transfer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2020-12-06
 * [Web-based | Makeup Transfer Demo](https://github.com/thaoshibe/Facial-Makeup-Web)
+* [Web-based | Facial Beauty Prediction](https://github.com/wanshun123/Facial-Beauty-Prediction)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

@@ -551,32 +551,6 @@
             },
             {
               "node_type": "item",
-              "title": "Web-based | Facial Beauty Prediction",
-              "description": "wanshun123/Facial-Beauty-Prediction",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple website interface built using Flask that allows users to upload selfies to be rated out of 10 by a machine learning model trained on the SCUT-FBP5500 dataset. Currently inactive (took down due to AWS hosting fees)",
-                "homepage": "http://fbp.dataanalysis.world/",
-                "id": 144787933,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2018-10-11T09:48:30Z",
-                "open_issues": 0,
-                "owner": "wanshun123",
-                "repo": "Facial-Beauty-Prediction",
-                "stars": 11,
-                "topics": [
-                  "flask",
-                  "image-classification",
-                  "image-processing",
-                  "machine-learning"
-                ]
-              },
-              "first_seen": "2026-08-29T01:15:04.405Z"
-            },
-            {
-              "node_type": "item",
               "title": "GUI | Makeup Transfer Demo",
               "description": "thaoshibe/GUI-Makeup-Transfer",
               "children": [],
@@ -606,7 +580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:56:27.236Z",
+    "last_updated": "2026-10-23T20:44:14.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
@@ -615,7 +589,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-10T23:44:27Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "thaoshibe",
       "repo": "awesome-makeup-transfer",
       "stars": 284,
