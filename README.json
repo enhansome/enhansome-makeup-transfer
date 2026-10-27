@@ -103,7 +103,7 @@
             "open_issues": 18,
             "owner": "Chenyu-Yang-2000",
             "repo": "EleGANt",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "eccv",
               "elegant",
@@ -236,7 +236,7 @@
             "open_issues": 12,
             "owner": "Honlan",
             "repo": "BeautyGAN",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "histogram-matching",
               "makeup-transfer"
@@ -315,7 +315,7 @@
             "open_issues": 64,
             "owner": "ZPdesu",
             "repo": "Barbershop",
-            "stars": 1441,
+            "stars": 1440,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
@@ -580,7 +580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:00:30.554Z",
+    "last_updated": "2026-10-27T21:32:56.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
