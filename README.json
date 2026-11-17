@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -315,7 +315,7 @@
             "open_issues": 64,
             "owner": "ZPdesu",
             "repo": "Barbershop",
-            "stars": 1442,
+            "stars": 1441,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:04.405Z"
@@ -440,7 +440,7 @@
             "open_issues": 11,
             "owner": "wtjiang98",
             "repo": "PSGAN",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -580,7 +580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:12:42.239Z",
+    "last_updated": "2026-11-17T01:14:07.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
