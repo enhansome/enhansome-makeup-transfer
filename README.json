@@ -236,7 +236,7 @@
             "open_issues": 12,
             "owner": "Honlan",
             "repo": "BeautyGAN",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "histogram-matching",
               "makeup-transfer"
@@ -539,7 +539,7 @@
                 "open_issues": 10,
                 "owner": "zllrunning",
                 "repo": "face-makeup.PyTorch",
-                "stars": 541,
+                "stars": 540,
                 "topics": [
                   "face-parsing",
                   "lipstick",
@@ -580,7 +580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:58:37.393Z",
+    "last_updated": "2026-11-20T23:27:28.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Makeup Transfer resources",
